@@ -6,7 +6,7 @@ using System;
 using System.Globalization;
 using UIKit;
 
-namespace CrmAccountEnrichmentXamarin
+namespace CrmSetAccountLocationXamarin
 {
     public partial class DetailViewController : UIViewController
     {

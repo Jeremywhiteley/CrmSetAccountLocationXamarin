@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using UIKit;
 
-namespace CrmAccountEnrichmentXamarin
+namespace CrmSetAccountLocationXamarin
 {
     public class CrmOauth
     {

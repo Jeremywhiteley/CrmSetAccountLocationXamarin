@@ -9,7 +9,7 @@ using System;
 using System.CodeDom.Compiler;
 using UIKit;
 
-namespace CrmAccountEnrichmentXamarin
+namespace CrmSetAccountLocationXamarin
 {
 	[Register ("MasterViewController")]
 	partial class MasterViewController

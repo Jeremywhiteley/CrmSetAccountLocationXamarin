@@ -5,10 +5,12 @@ using System;
 using System.Collections.Generic;
 using UIKit;
 
-namespace CrmAccountEnrichmentXamarin
+namespace CrmSetAccountLocationXamarin
 {
     public partial class MasterViewController : UITableViewController
     {
+        //Requires: https://code.msdn.microsoft.com/Mobile-Development-Helper-3213e2e6
+
         DataSource _dataSource;
         public static string ClientId = "[GUID_HERE]";
         public static string CommonAuthority = "https://login.windows.net/[GUID_HERE]/oauth2/authorize?api-version=1.0";
